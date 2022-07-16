@@ -3,15 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="4fbb4bb7-0008-4047-9dc4-4aa3f62349ec" name="Changes" comment="login form">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/loginproj/LoginPage.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/loginproj/LoginPage.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loginproj/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loginproj/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loginproj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loginproj/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="3cd1ba2c-18f1-4f7a-ae71-ae1c16360ea0" value="Blue" />
+    </colors>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,6 +41,11 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mongo"
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -69,8 +76,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657954021991</updated>
-      <workItem from="1657954027578" duration="4035000" />
+      <workItem from="1657954027578" duration="4732000" />
     </task>
+    <task id="LOCAL-00001" summary="login form">
+      <created>1657963810541</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657963810541</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
